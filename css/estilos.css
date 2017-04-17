@@ -21,6 +21,10 @@ body{
   content: "\ea84";
 }
 
+.icon-mail2:hover{
+  background-color: green;
+}
+
 
 .background-wrap {
     position: fixed;
